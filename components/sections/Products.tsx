@@ -13,14 +13,14 @@ export default function Products() {
   const products = [
     {
       name: 'Liquid Soap',
-      image: '/images/liquid-soap.jpg',
+      image: '/images/liquid-soap.jpeg',
       benefit: 'Gentle cleansing with lasting freshness',
       badge: 'Best Seller',
       color: 'emerald',
     },
     {
       name: 'Air Freshener',
-      image: '/images/air-freshener.jpg',
+      image: '/images/air-freshener.jpeg',
       benefit: 'Long-lasting fragrance for your space',
       badge: 'Popular',
       color: 'teal',
@@ -48,7 +48,7 @@ export default function Products() {
     },
     {
       name: 'Hair Cream',
-      image: '/images/hair-cream.jpg',
+      image: '/images/hair-cream.avif',
       benefit: 'Nourish and style with ease',
       badge: null,
       color: 'cyan',

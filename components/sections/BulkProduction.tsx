@@ -141,7 +141,7 @@ export default function BulkProduction() {
               className="relative rounded-3xl overflow-hidden shadow-2xl"
             >
               <Image
-                src="/images/bulk-packaging.jpg"
+                src="/images/bulk-packaging.webp"
                 alt="Bulk liquid product packaging and souvenir production for events"
                 width={600}
                 height={700}
